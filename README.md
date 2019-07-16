@@ -1,1 +1,1 @@
-# Exploring the effects of SynonymousMutations IITB Summer Project 2019
+# Exploring the effects of SynonymousMutations, IIT-B Summer Project 2019
