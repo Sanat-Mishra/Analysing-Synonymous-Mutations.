@@ -1,9 +1,13 @@
 #Genetic Algo
 
-'''A genetic algorithm (GA) mimics the process of natural selection to generate 
+'''
+The motivation for using a Genetic Algorithm (GA) is to ensure unbiased sampling
+from the available choices.
+
+A GA mimics the process of natural selection to generate 
 solutions given a set of constraints. Given a target solution, the GA produces 
 solutions (sequences, in my case) trying to maximise a fitness function until it reaches the target.
-Sub-optimal solution are removed, justas through selection.
+Sub-optimal solutions are removed, just as through selection.
 I have written functions specifically for each component-
 1) Generating the target sequence.
 2) Introduce random mutations.
