@@ -1,1 +1,1 @@
-# Analysing-Effects-of-SynonymousMutations-IITB-Summer-Project-2019
+# Exploring the effects of SynonymousMutations IITB Summer Project 2019
