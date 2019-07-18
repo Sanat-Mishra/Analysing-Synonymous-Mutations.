@@ -6,11 +6,12 @@ the TIR values were retrieved. Since we had to perform this task for hundreds of
 automating it was necessary.
 The TIR values were then written onto a csv file. 
 
+
 NOTE- 1) While running the code, it is best to leave the system undisturbed, since not only will it 
          interrupt whatever you plan on doing, there are chances you might accidentaly close the browser 
-         this uses and terminate the code.
+         it uses and terminate the code.
       2) Right click on the respective search bar/text to access the page source and see
-         the HTML code for it, this is done multiple times.
+         the HTML code for it, this is done multiple times in this script.
       3) Install Selenium on your system.  
       4) The Firefox driver can be installed from 'https://github.com/mozilla/geckodriver/releases' .
 '''
