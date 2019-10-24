@@ -1,1 +1,1 @@
-# Exploring the effects of SynonymousMutations, IIT-B Summer Project 2019
+# Exploring the effects of Synonymous Mutations, Advisor - Dr. Supreet Saini, IIT-Bombay (May - July),2019.
