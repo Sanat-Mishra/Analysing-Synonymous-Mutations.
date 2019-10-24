@@ -23,7 +23,7 @@ from Bio.Alphabet import IUPAC
 import itertools
 import csv
 
-'''The following snippet evaluates the Hamming Distance between the sequnces, 
+''' The following snippet evaluates the Hamming Distance between the sequnces, 
 i.e. the number of positions between two strings where they differ. '''
 
 def fitnesseval(str1, str2):
