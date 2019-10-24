@@ -71,7 +71,7 @@ def maxHam(inp):
         
         codonlist=list(messenger_rna)  #codonlist is a list of bases in te original sequence.
         
-        '''In case the amino acid is Serine, I introduced manual changes to ensure a synoymous variant is produced '''
+        ''' In case the amino acid is Serine, I introduced manual changes to ensure a synoymous variant is produced. '''
         
         if amacid=='S' and l!=nt:  # l!=nt ensures that l(original two bases) and nt(randomly chosen two bases) are not the same.
             codonlist[0]=nt[0] #assign the first element of codonlist as the first one in nt.
