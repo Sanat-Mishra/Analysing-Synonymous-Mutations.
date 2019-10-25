@@ -33,7 +33,7 @@ AA_0 = dict.fromkeys(table.values(),0 )   #dict of amino acid count
 
 '''The following is used only to read and write to a file.'''
 genes=['Arca','CRP','FnR','Fur','hns','rob','soxS']
-h=5
+h=5  #Hamming Distance as required
 f_w=csv.writer(open('/Users/sanatmishra27/Desktop/'+'xylR'+'/'+'Ham'+str(h)+'-'+'xylR'+'CodonFreq.csv','w+'))
 f_w.writerow(["codonfrequency"])
 f_open=open('/Users/sanatmishra27/Desktop/SUMMER PROJECT \'19/Plots/SynonymousSeq/Local/'+'xylR'+str('/Ham')+str(h)+'-'+'xylR'+str('.csv'),"r")
